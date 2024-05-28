@@ -25,8 +25,8 @@ const projects = [
     description:
       "Portfolio with Tailwind CSS and Next.js.",
     image: "/portfolio.png",
-    github: "https://github.com/hqasmei/katorfamilyphotos",
-    link: "https://katorfamilyphotos.com/",
+    github: "https://github.com/ankitasray/portfolio",
+    link: "https://portfolio-ankita-sinha-rays-projects.vercel.app/",
   },
 ]
 
